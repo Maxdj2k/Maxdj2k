@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Maxdj2k, nice to meet you!
-- 💞️ I’m looking to collaborate on: "Not sure yet, but im open to ideas!"
+Just getting started with github and how to join open source to get better at development as a whole.
+Python JS CSS Bootstrap 
 - 📫 How to reach me ...
 
 <!---
