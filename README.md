@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Maxdj2k, nice to meet you!
-- 👀 I’m interested in Python Data Science
-- 🌱 I’m currently learning Geopython
 - 💞️ I’m looking to collaborate on: "Not sure yet, but im open to ideas!"
 - 📫 How to reach me ...
 
