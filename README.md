@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Maxdj2k, nice to meet you!
-Just getting started with github and how to join open source to get better at development as a whole.
-Python JS CSS Bootstrap 
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Maxdj2k, cool to meet you! 
+- Right now im working on creating a running portfolio website, and currently browsing to get into open-source collaboration projects. 
+- I went to school at Daytona state community college in Daytona Beach Fl. for computer sciences and engineering. 
+- 
+- 📫 How to reach me- by Email: Well.sp.max@gmail.com 
+- 
 
 <!---
 Maxdj2k/Maxdj2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
