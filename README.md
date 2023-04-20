@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maxdj2k, cool to meet you! 
-- Right now im working on creating a running portfolio website, and currently browsing to get into open-source collaboration projects. 
-- I went to school at Daytona state community college in Daytona Beach Fl. for computer sciences and engineering. 
+- Right now im working on creating a running django application, and currently browsing to get into open-source collaboration projects. 
+- I went to school at Daytona state community college in Daytona Beach Fl. for computer and information sciences. 
 - 
 - 📫 How to reach me- by Email: Well.sp.max@gmail.com 
 - 
