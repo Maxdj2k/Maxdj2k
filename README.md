@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maxdj2k, cool to meet you! 
-- Right now im working on creating a running django application, and currently browsing to get into open-source collaboration projects. 
+- Right now I'm currently learning LAMP stack, teaching myselkf how to host a Django-react web application on an Apache Server which is hosted on a linux VM. 
 - I went to school at Daytona state community college in Daytona Beach Fl. for computer and information technology. 
 - 
 - 📫 How to reach me- by Email: Well.sp.max@gmail.com 
